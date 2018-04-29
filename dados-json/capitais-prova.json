@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "municipio": "Sao Paulo (SP)",
+    "pop2017": 12106920,
+    "dif2000": "estavel"
+  },
+  {
+    "id": 2,
+    "municipio": "Rio de Janeiro (RJ)",
+    "pop2017": 6520266,
+    "dif2000": "estavel"
+  },
+  {
+    "id": 3,
+    "municipio": "Brasília (DF)",
+    "pop2017": 3039444,
+    "dif2000": "aumento"
+  },
+  {
+    "id": 4,
+    "municipio": "Salvador (BA)",
+    "pop2017": 2953986,
+    "dif2000": "baixa"
+  },
+  {
+    "id": 5,
+    "municipio": "Fortaleza (CE)",
+    "pop2017": 2627482,
+    "dif2000": "estavel"
+  },
+  {
+    "id": 6,
+    "municipio": "Belo Horizonte (MG)",
+    "pop2017": 2523794,
+    "dif2000": "baixa"
+  },
+  {
+    "id": 7,
+    "municipio": "Manaus (AM)",
+    "pop2017": 2130264,
+    "dif2000": "aumento"
+  },
+  {
+    "id": 8,
+    "municipio": "Curitiba (PR)",
+    "pop2017": 1908359,
+    "dif2000": "baixa"
+  },
+  {
+    "id": 9,
+    "municipio": "Recife (PE)",
+    "pop2017": 1633697,
+    "dif2000": "baixa"
+  },
+  {
+    "id": 10,
+    "municipio": "Porto Alegre (RS)",
+    "pop2017": 1484941,
+    "dif2000": "estavel"
+  },
+  {
+    "id": 11,
+    "municipio": "Goiania (GO)",
+    "pop2017": 1466105,
+    "dif2000": "aumento"
+  },
+  {
+    "id": 12,
+    "municipio": "Belem (PA)",
+    "pop2017": 1452275,
+    "dif2000": "baixa"
+  }
+]

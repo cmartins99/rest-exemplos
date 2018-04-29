@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "titulo": "HTML 5 + CSS",
+    "preco": 120,
+    "bestseller": true
+  },
+  {
+    "id": 2,
+    "titulo": "JAVA PARA NERDS",
+    "preco": 65,
+    "bestseller": false
+  },
+  {
+    "id": 3,
+    "titulo": "PYTHON COM FLASK",
+    "preco": 80,
+    "bestseller": true
+  },
+  {
+    "id": 4,
+    "titulo": "ENGENHARIA DE SOFTWARE",
+    "preco": 76,
+    "bestseller": false
+  },
+  {
+    "id": 5,
+    "titulo": "ALGORITMOS",
+    "preco": 54,
+    "bestseller": false
+  }
+]
