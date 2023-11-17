@@ -14,6 +14,7 @@
 			$.ajax({ 
 				type: 'get',
 				url: 'https://viacep.com.br/ws/'+cep+'/json/',
+				crossDomain: true,
 				dataType: 'json',
 				contentType: 'application/json; charset=utf-8',
 				success: function (response) {
